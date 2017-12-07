@@ -25,4 +25,6 @@ def main():
     print("--------------------------------------------")
     print("  My demo")
     print("--------------------------------------------")
-    ev3.Sound.speak("Neil's a tool").wait()
+    ev3.Sound.speak("Aman Bajaj").wait()
+
+main()
