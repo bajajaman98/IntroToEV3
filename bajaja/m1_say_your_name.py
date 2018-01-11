@@ -5,11 +5,11 @@ This module is meant to be your first program that you've made for EV3.
   Use the samples to learn the API calls needed (not much code to write)
 
 Authors: Dave Fisher and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
 # ------------------------------------------------------------------
-# TODO: 2. Make the robot say "David Fisher can write E V 3 programs"
+# DONE: 2. Make the robot say "David Fisher can write E V 3 programs"
 #   But of course use YOUR NAME.
 #
 #   Use the samples to figure out the necessary lines of code.
@@ -25,6 +25,6 @@ def main():
     print("--------------------------------------------")
     print("  My demo")
     print("--------------------------------------------")
-    ev3.Sound.speak("Aman Bajaj").wait()
+    ev3.Sound.speak("Crocs are yag").wait()
 
 main()
